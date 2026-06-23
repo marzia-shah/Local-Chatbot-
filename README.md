@@ -130,6 +130,4 @@ For technical support:
 4. Review the installation guide
 5. For port conflicts, see `PORT_CONFLICT_RESOLVER.md`
 
----
-
-**🏢 Built for Lotte Chemical - Secure, Local, and Powerful AI Document Processing**
+Built for Lotte Chemical - Secure, Local, and Powerful AI Document Processing
