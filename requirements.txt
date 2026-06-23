@@ -1,0 +1,50 @@
+# Lotte Chemical AI Chatbot - Requirements
+# This file contains all Python dependencies needed to run the chatbot
+
+# Core Web Framework
+fastapi
+uvicorn[standard]
+
+# Document Processing
+PyMuPDF
+python-docx
+pdfplumber
+
+# AI and Machine Learning
+sentence-transformers
+transformers
+torch
+faiss-cpu
+
+# HTTP Requests
+requests
+httpx
+
+# Template Engine
+jinja2
+
+# File Upload Handling
+python-multipart
+
+# Database
+# sqlite3 is built-in with Python
+
+# Utilities
+python-dotenv
+pydantic
+bleach  # For HTML sanitization
+
+# Development and Testing (Optional)
+pytest
+pytest-asyncio
+
+# Additional utilities for enhanced features
+psutil # For system monitoring
+aiofiles  # For async file operations
+
+# Authentication and Security
+bcrypt  # For password hashing
+python-jose[cryptography]  # For JWT tokens (if needed)
+
+# Data Processing
+numpy  # For numerical operations
